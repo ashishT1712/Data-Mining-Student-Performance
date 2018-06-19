@@ -1,4 +1,4 @@
-# Studentperformance
+# Student Performance prediction
 Machine Learning - Supervised Learning for student performance prediction 
 
 The aim of this project is to improve the current trends in the higher education systems and to find out which factors might help in creating successful students. It is really necessary to find successful students as it motivates higher education systems to know them well and one way to know this is by using valid management and processing of the student’s database.
