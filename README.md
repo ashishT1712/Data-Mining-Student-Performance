@@ -34,4 +34,5 @@ We have implemented our algorithms with the help of Python. We have made use of 
 3) Scikit-learn
 4) Matplotlib
 
+Highest Accuracy achieved = 80%
 
