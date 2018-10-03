@@ -23,6 +23,7 @@ A decision tree is a decision support tool that uses a tree-like graph or model 
 
 # Naive Bayesian 
 Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
+![Naive Bayesian](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/NaiveBayesian.png)
 
 # SVM 
 A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane.
