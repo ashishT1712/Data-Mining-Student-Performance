@@ -18,6 +18,9 @@ In our dataset we had 33 attributes and as result we had to reduce some of the a
 # Decision tree 
 A decision tree is a decision support tool that uses a tree-like graph or model of decisions and their possible consequences
 
+![Decision Tree](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/DecisionTree.png)
+
+
 # Naive Bayesian 
 Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 
