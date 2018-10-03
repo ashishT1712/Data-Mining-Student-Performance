@@ -31,7 +31,7 @@ A Support Vector Machine (SVM) is a discriminative classifier formally defined b
 
 # K nearest neighbor  
 In pattern recognition, the k-nearest neighbour’s algorithm (k-NN) is a non-parametric method used for classification and regression. 
-
+![KNN](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/K-Nearest%20Neighbors.png)
 
 We have implemented our algorithms with the help of Python. We have made use of in-built python libraries and packages to implement our classification algorithms. We have made use of the following libraries and packages:
 1) Numpy
