@@ -39,5 +39,7 @@ We have implemented our algorithms with the help of Python. We have made use of 
 3) Scikit-learn
 4) Matplotlib
 
+![Comparision](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png)
+
 Highest Accuracy achieved = 80%
 
