@@ -27,6 +27,7 @@ Naive Bayes classifiers are a family of simple probabilistic classifiers based o
 
 # SVM 
 A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane.
+![SVM](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Support%20Vector%20Machine.png)
 
 # K nearest neighbor  
 In pattern recognition, the k-nearest neighbour’s algorithm (k-NN) is a non-parametric method used for classification and regression. 
