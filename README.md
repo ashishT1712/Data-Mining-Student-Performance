@@ -42,4 +42,3 @@ We have implemented our algorithms with the help of Python. We have made use of 
 ![Comparision](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png)
 
 Highest Accuracy achieved = 80%
-
