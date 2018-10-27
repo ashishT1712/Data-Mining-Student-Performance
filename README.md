@@ -3,7 +3,7 @@ Machine Learning - Supervised Learning for student performance prediction
 
 The aim of this project is to improve the current trends in the higher education systems and to find out which factors might help in creating successful students. It is really necessary to find successful students as it motivates higher education systems to know them well and one way to know this is by using valid management and processing of the student’s database.
 
-# Data Description
+## Data Description
 1. Data source link:  http://archive.ics.uci.edu/ml/datasets/student+performance 
 2. Data format: Integer
 3. Size:  396 rows X 33 columns
@@ -15,21 +15,21 @@ This data is of student’s achievement in secondary education of Portuguese sch
 During the data pre-processing set we found out that data present in our dataset was clean, as a result we did not had to perform the data cleaning methods. 
 In our dataset we had 33 attributes and as result we had to reduce some of the attributes which were not so important, to get better accuracy and low-cost tree. In organizations these kind of strategies is performed to reduce the data, so we also decided to do the same.
 
-# Decision tree 
+## Decision tree 
 A decision tree is a decision support tool that uses a tree-like graph or model of decisions and their possible consequences
 
 ![Decision Tree](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/DecisionTree.png)
 
 
-# Naive Bayesian 
+## Naive Bayesian 
 Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 ![Naive Bayesian](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/NaiveBayesian.png)
 
-# SVM 
+## SVM 
 A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane.
 ![SVM](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Support%20Vector%20Machine.png)
 
-# K nearest neighbor  
+## K nearest neighbor  
 In pattern recognition, the k-nearest neighbour’s algorithm (k-NN) is a non-parametric method used for classification and regression. 
 ![KNN](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/K-Nearest%20Neighbors.png)
 
