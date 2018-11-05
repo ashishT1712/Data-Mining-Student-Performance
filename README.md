@@ -12,7 +12,8 @@ The aim of this project is to improve the current trends in the higher education
 
 This data is of student’s achievement in secondary education of Portuguese school. The data attributes include student grades, demographic, social and school related features) and it was collected by using questionnaires and school reports. Dataset are provided regarding the performance in subject: Mathematics. The target attribute G3 has a strong correlation with attributes G2 and G1. This occurs because G3 is the final year grade, while G1 and G2 correspond to the 1st and 2nd period grades. 
 
-During the data pre-processing set we found out that data present in our dataset was clean, as a result we did not had to perform the data cleaning methods. 
+During the data pre-processing set we found out that data present in our dataset was clean, as a result we did not had to perform the data cleaning methods.
+
 In our dataset we had 33 attributes and as result we had to reduce some of the attributes which were not so important, to get better accuracy and low-cost tree. In organizations these kind of strategies is performed to reduce the data, so we also decided to do the same.
 
 ## Decision tree 
