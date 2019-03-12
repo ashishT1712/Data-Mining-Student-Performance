@@ -41,5 +41,5 @@ We have implemented our algorithms with the help of Python. We have made use of 
 4) Matplotlib
 
 ![Comparision](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png)
-<img src= 'https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png' width = 50px height = 50px />
+<img src= 'https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png' width = 200px height = 200px />
 __Highest Accuracy achieved = 80%__
