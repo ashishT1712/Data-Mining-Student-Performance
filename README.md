@@ -40,6 +40,7 @@ We have implemented our algorithms with the help of Python. We have made use of 
 3) Scikit-learn
 4) Matplotlib
 
-![Comparision](https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png)
 <img src= 'https://github.com/ashishT1712/Data-Mining-Student-Performance/blob/master/Comparision.png' width = 500px height = 500px />
+
+
 __Highest Accuracy achieved = 80%__
